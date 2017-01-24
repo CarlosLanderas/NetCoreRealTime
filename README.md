@@ -1,4 +1,4 @@
-Source code for **Asp.Net Core Real Time** by Carlos Lande and Manuel Rodrigo Cabello 
+Source code for **Asp.Net Core Real Time** by Carlos Lande and Manuel Rodrigo Cabello --
 **Plainconcepts** .NET Event Core - 24 January 2017
 
 
