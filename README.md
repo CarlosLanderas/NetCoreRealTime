@@ -8,9 +8,9 @@ Source code for **Asp.Net Core Real Time** by Carlos Lande and Manuel Rodrigo Ca
 
 **Note**: SignalR is under heavy development right now, so the code is updated daily and this demo
 contains code in early state.
-<br/>
+<br/><br/>
 **Install**: The solution has attached signalR source code. In order to compile it you 
-have to run first build.ps1 file to get the skd that SignalR teams is targeting installed
+have to run first **build.ps1** file to get the sdk that SignalR team is targeting installed
 
 To build the frontend react application you can find the scripts in the package.json file.
 
