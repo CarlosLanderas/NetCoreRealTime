@@ -12,8 +12,9 @@ contains code in early state.
 **Install**: The solution has attached signalR source code. In order to compile it you 
 have to run first **build.ps1** file to get the sdk that SignalR team is targeting installed
 
-To build the frontend react application you can find the scripts in the package.json file.
-
+To build the react fron-end application you should execute **npm install** to get packages installed and run the build scripts
+present in package.json
+<br/>
 Examples:
 
 npm run dev<br/>
