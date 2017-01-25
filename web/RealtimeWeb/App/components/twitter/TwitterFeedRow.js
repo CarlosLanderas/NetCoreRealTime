@@ -20,4 +20,4 @@ const TwitterFeedRow = ({tweet}) => {
     )
 }
 
-                export { TwitterFeedRow };
+export { TwitterFeedRow };
